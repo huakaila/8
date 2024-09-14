@@ -55,8 +55,9 @@
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/1.webm" target="_blank">短视频 : 你见过会说话的石头吗?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/1.webm" target="_blank"><img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/%E7%9F%B3%E5%A4%B4.jpg"></a><br>
 
+
+</a><strong><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-east-1.amazonaws.com/tcxs/ctd.html">三退(退党、团、队)保平安</a></p></strong>
 <hr>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-east-1.amazonaws.com/tcxs/ctd.html">三退(退党、团、队)保平安</a></p>
 <p>如有疑问可联系邮箱fanqiangla@gmx.com</p>
 <p><a href="https://gitlab.com/xinwen8/8/-/blob/main/README.md#%E7%9C%9F%E5%AE%9E%E6%96%B0%E9%97%BB">备用网址1</a><p>   
 <p><a href="https://xinwen8.github.io">备用网址2</a><p>  
