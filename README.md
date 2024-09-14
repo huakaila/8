@@ -2,12 +2,12 @@
 </a><strong>真实新闻:</strong>
 </h2>
 <p><details><summary>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p></summary>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/uuu3/u/blob/master/u.md#%E6%96%B0%E9%97%BB%E7%83%AD%E7%82%B9-%E6%B5%B7%E5%A4%96%E6%8A%A5%E9%81%93">新闻热点</a></p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/zhifan999/fq/-/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/uuu3/u/blob/master/u.md#%E6%96%B0%E9%97%BB%E7%83%AD%E7%82%B9-%E6%B5%B7%E5%A4%96%E6%8A%A5%E9%81%93">新闻热点</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/zhifan999/fq/-/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://4602t2.kangdi.site/xGP3q#f0h22408">神州明见</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://d200br.fangma.online/N11ve#8rlv6v40">动态网</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://x64l66.zuiya.site/xVaeb#x4nhfznd">干净世界</a></p>
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://xpf2bh.fangma.online/inRZn#8d626n60">畅游真相</a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://xpf2bh.fangma.online/inRZn#8d626n60">畅游真相</a></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/xinwen8/rj/-/raw/main/szmjweb.3.0.zip">神州html网页版</a></p>
 </details>
@@ -56,7 +56,7 @@
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/1.webm" target="_blank"><img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/%E7%9F%B3%E5%A4%B4.jpg"></a><br>
 
 
-</a><strong><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-east-1.amazonaws.com/tcxs/ctd.html">三退(退党、团、队)保平安</a></p></strong>
+</a><strong><a href="https://s3.us-east-1.amazonaws.com/tcxs/ctd.html">三退(退党、团、队)保平安</a></strong>
 <hr>
 <p>如有疑问可联系邮箱fanqiangla@gmx.com</p>
 <p><a href="https://gitlab.com/xinwen8/8/-/blob/main/README.md#%E7%9C%9F%E5%AE%9E%E6%96%B0%E9%97%BB">备用网址1</a><p>   
