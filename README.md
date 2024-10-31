@@ -2,7 +2,7 @@
 <p>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/uuu3/u/blob/master/u.md#%E6%96%B0%E9%97%BB%E7%83%AD%E7%82%B9-%E6%B5%B7%E5%A4%96%E6%8A%A5%E9%81%93">新闻热点</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/zhifan999/fq/-/wikis/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://d666r6.trha.mom/HK5cC#br2804z4">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://n88vl8.gulao.shop/HK5cC#48xv64hx">神州明见 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://2l0440.xiog.bar/wrjBi#688vd04r">动态网 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bjj4nb.bowai.life/WoYQ8#r2hl48vr">畅游真相 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/xinwen8/rj/-/raw/main/szmjweb.3.0.zip">神州html网页版</a></p>
