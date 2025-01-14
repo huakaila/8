@@ -8,8 +8,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/xinwen8/rj/-/raw/main/szmjweb.3.0.zip">神州html网页版</a></p>
 </details>
 <p>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/szmj_v7.0.2024110901">神州明见 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/szmjtv_v7.0.2024110901">神州TV版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/szmj_v7.0.2024110901.apk">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/szmjtv_v7.0.2024110901.apk">神州TV版 </a></p>
 </details>
 
 
