@@ -1,16 +1,16 @@
 ### 真实新闻:
 <p>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-east-1.amazonaws.com/tcxs/chp.html">希望之声 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-east-1.amazonaws.com/tcxs/cet.html">大纪元新闻网 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-east-1.amazonaws.com/zhifan/td.html">直翻海外 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/chp.html">希望之声 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/cet.html">大纪元新闻网 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tdh8v4.kuiku.site/HK5cC#62f2fpn4">神州明见 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://h400n0.wanpao.xyz/wrjBi#6f800442">动态网 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bjj4nb.bowai.life/WoYQ8#r2hl48vr">畅游真相 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://886z8r.tingpa.shop/wrjBi?42808lp8">动态网 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pr4l4h.ojyj.world/WoYQ8?x2444z66">畅游真相 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/xinwen8/rj/-/raw/main/szmjweb.3.0.zip">神州html网页版</a></p>
 </details>
 <p>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/szmj_v7.0.2024110901.apk">神州明见 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/szmjtv_v7.0.2024110901.apk">神州TV版 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmj_7.1.2025052101.apk">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/szmjtv_v7.1.2025052101.apk">神州TV版 </a></p>
 </details>
 
 
@@ -23,7 +23,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/fgvpn1.5.apk">自由门 </a></p>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pick.szzd.me/files/ChromePublic.apk">翻墙谷歌浏览器</a> </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-android-current.apk">nthlink </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.10.63.1/ProtonVPN-5.10.63.1.605106301.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.11.29.1/ProtonVPN-5.11.29.1.605112901.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/PsiphonAndroid.apk">赛风 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.leap.se/RiseupVPN/android/RiseupVPN-Android-latest.apk">RiseupVPN </a></p>
 </details>
@@ -48,7 +48,7 @@
 <hr>
 
 ### 其它：
-<p></a><strong><a href="https://s3.us-east-1.amazonaws.com/tcxs/ctd.html">三退(退党、团、队)保平安</a></strong><p> 
+<p></a><strong><a href="https://s3.us-west-1.amazonaws.com/tc-vn/ctd.html">三退(退党、团、队)保平安</a></strong><p> 
 <p><a href="https://gitlab.com/zhifan999/fq/-/wikis/home#%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/zf1.jpg"></a><br>
