@@ -3,9 +3,9 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/chp.html">希望之声 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/cet.html">大纪元新闻网 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tdh8v4.kuiku.site/HK5cC#62f2fpn4">神州明见 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://886z8r.tingpa.shop/wrjBi?42808lp8">动态网 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pr4l4h.ojyj.world/WoYQ8?x2444z66">畅游真相 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://j0z6n4.xcstd.rocks/HK5cC?d2d06txd">神州明见 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://z008hf.tjnb.art/wrjBi?0rn084v6">动态网 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://l06p6f.ugd.quest/WoYQ8?04462460">畅游真相 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/xinwen8/rj/-/raw/main/szmjweb.3.0.zip">神州html网页版</a></p>
 </details>
 <p>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p>
@@ -23,17 +23,16 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/fgvpn1.5.apk">自由门 </a></p>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pick.szzd.me/files/ChromePublic.apk">翻墙谷歌浏览器</a> </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-android-current.apk">nthlink </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.11.29.1/ProtonVPN-5.11.29.1.605112901.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/PsiphonAndroid.apk">赛风 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ProtonVPN/android-app/releases/download/5.11.39.1/ProtonVPN-5.11.39.1.605113901.-production-vanilla-direct-release.apk">ProtonVPN </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/xinwen8/rj/-/raw/main/PsiphonAndroid.apk">赛风 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://downloads.leap.se/RiseupVPN/android/RiseupVPN-Android-latest.apk">RiseupVPN </a></p>
 </details>
 
 <p>电脑版</a>&nbsp;&nbsp; :arrow_double_down: </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/u.zip">无界 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/fg801p.zip">自由门 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/fg802p.zip">自由门 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-win64-current.exe">nthlink（64位） </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.downloadnth.com/nthlink-win32-current.exe">nthlink（32位） </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/xinwen8/rj/raw/refs/heads/main/psiphon3.rar">赛风 </a></p>
 </details>
 
 <p>苹果版</a>&nbsp;&nbsp; :arrow_double_down: </p>
@@ -49,7 +48,7 @@
 
 ### 其它：
 <p></a><strong><a href="https://s3.us-west-1.amazonaws.com/tc-vn/ctd.html">三退(退党、团、队)保平安</a></strong><p> 
-<p><a href="https://gitlab.com/zhifan999/fq/-/wikis/home#%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91%E6%96%B9%E6%B3%95">一键翻墙浏览器</a><p>     
+<p><a href="https://gitlab.com/zhifan999/fq/-/wikis/home#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90">一键翻墙浏览器</a><p>     
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank">短视频 : 是自焚还是骗局?</a><br><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/zfzx.webm" target="_blank"><img src="https://gitlab.com/fanqiangla/ruanjian/-/raw/master/zf1.jpg"></a><br>
 <a href="https://gitlab.com/fanqiangla/zf/-/raw/master/1.webm" target="_blank">短视频 : 你见过会说话的石头吗?</a><br><br>
