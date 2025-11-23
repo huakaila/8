@@ -1,7 +1,8 @@
 ### 真实新闻:
 <p>网页版</a>&nbsp;&nbsp; :arrow_double_down: </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/chp.html">希望之声 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.us-west-1.amazonaws.com/tc-vn/cet.html">大纪元新闻网 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/chp.html">希望之声 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cet.html">大纪元新闻网 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cnd.html">新唐人电视台 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://j0z6n4.xcstd.rocks/HK5cC?d2d06txd">神州明见 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://z008hf.tjnb.art/wrjBi?0rn084v6">动态网 </a></p>
@@ -48,7 +49,7 @@
 <hr>
 
 ### 其它：
-<p></a><strong><a href="https://s3.us-west-1.amazonaws.com/tc-vn/ctd.html">三退(退党、团、队)保平安</a></strong><p> 
+<p></a><strong><a href="https://s3.ap-east-1.amazonaws.com/tc19/ctd.html">三退(退党、团、队)保平安</a></strong><p> 
 <p><a href="https://github.com/Alvin9999/new-pac/wiki#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90">一键翻墙浏览器</a><p>     
 
 
