@@ -3,10 +3,10 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/chp.html">希望之声 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cet.html">大纪元新闻网 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.ap-east-1.amazonaws.com/tc19/cnd.html">新唐人电视台 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Alvin9999-newpac/fanqiang/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93">直翻海外 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://8fhvrp.kuangu.space/HK5cC?v8td8hzp">神州明见 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://f20r48.bingte.store/wrjBi?2fhrt442">动态网 </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://xd8rpd.ansande.shop/WoYQ8?znnn0640">畅游真相 </a></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://zxxx6z.oxide.motorcycles/WoYQ8?2dn82x6r">畅游真相 </a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/szmj0/update/raw/refs/heads/main/extras/SZZD_PC/szmjweb.3.0.zip">神州html网页版</a></p>
 </details>
 <p>安卓版</a>&nbsp;&nbsp; :arrow_double_down: </p>
@@ -50,7 +50,7 @@
 
 ### 其它：
 <p></a><strong><a href="https://s3.ap-east-1.amazonaws.com/tc19/ctd.html">三退(退党、团、队)保平安</a></strong><p> 
-<p><a href="https://github.com/Alvin9999/new-pac/wiki#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90">一键翻墙浏览器</a><p>     
+<p><a href="https://github.com/Alvin9999-newpac/fanqiang/wiki#%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90">一键翻墙浏览器</a><p>     
 
 
 
